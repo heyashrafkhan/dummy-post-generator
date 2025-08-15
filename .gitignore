@@ -40,3 +40,7 @@ composer.lock
 
 # Ignore plugin zip archives
 *.zip
+
+# Ignore Cursor IDE files
+.cursor
+.cursorignore
