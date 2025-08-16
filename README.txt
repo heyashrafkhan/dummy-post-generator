@@ -1,15 +1,15 @@
 === Dummy Post Generator ===
-Contributors: yourname
+Contributors: Ashraf Khan
 Tags: posts, dummy, test, generator, custom post type
-Requires at least: 5.0
-Tested up to: 6.5
+Requires at least: 6.0
+Tested up to: 6.8.2
 Requires PHP: 7.4
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-Easily generate dummy posts or custom post types for testing and development purposes. Supports bulk creation and works with any public post type.
+Easily generate dummy posts, pages, or custom post types for testing and development purposes. Supports bulk creation and works with any public post type. Useful for developers, testers, and site builders who need sample content quickly.
 
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/dummy-post-generator` directory, or install the plugin through the WordPress plugins screen directly.
@@ -33,6 +33,12 @@ You can generate between 1 and 100 posts per action.
 = Does this plugin delete posts? =
 No, it only creates new posts. You must delete unwanted posts manually.
 
+= Does it support internationalization? =
+Yes, all user-facing strings are translatable.
+
+= Is it safe to use on a live site? =
+The plugin is intended for development and testing. Use caution on production sites as it creates real posts.
+
 == Changelog ==
 = 1.1 =
 * Added internationalization and escaping for all user-facing strings.
@@ -41,5 +47,16 @@ No, it only creates new posts. You must delete unwanted posts manually.
 = 1.0 =
 * Initial release.
 
+== Upgrade Notice ==
+= 1.1 =
+Recommended update for improved security and internationalization support.
+
+== Screenshots ==
+1. Admin page for generating dummy posts.
+2. Success message after generating posts.
+
 == License ==
 This plugin is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+== Support ==
+For support, please open an issue on the GitHub repository or contact the author at ashraf.khan@example.com.
