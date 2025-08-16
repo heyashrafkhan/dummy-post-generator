@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Dummy Post Generator
- * Description: Generate dummy posts for testing purposes, including custom post types
+ * Description: Generate dummy posts, pages & custom post type for testing purposes.
  * Version: 1.1
  * Author: Ashraf Khan
  */
