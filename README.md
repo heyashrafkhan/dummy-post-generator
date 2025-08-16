@@ -7,6 +7,13 @@
 ## Description
 Generate dummy posts, pages, or custom post types for testing and development purposes. Supports bulk creation and works with any public post type. Ideal for developers, testers, and site builders who need sample content quickly.
 
+### Features:
+
+* Bulk generate posts, pages, or any custom post type
+* Select post type and quantity (1–100) from the admin menu
+* Fully internationalized and secure
+* No data deletion—only creates new content
+
 ## Installation
 
 ### For GitHub
