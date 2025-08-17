@@ -39,16 +39,12 @@ Generate dummy posts, pages, or custom post types for testing and development pu
 4. Click 'Generate Dummy Posts'.
 5. Success or error messages will be displayed after generation.
 
-## Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to report issues, submit pull requests, and follow coding standards.
-
 ## License
 This project is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
 ## Author
-Ashraf Khan  
-Email: ashraf.khan@example.com  
-[LinkedIn](https://www.linkedin.com/in/ashrafkhan)  
+Ashraf Khan
+[LinkedIn](https://www.linkedin.com/in/heyashrafkhan)
 
 ## Support
-For support, please open an issue in the [GitHub repository](https://github.com/yourusername/dummy-post-generator/issues) or contact the author at ashraf.khan@example.com.
+For support, please open an issue in the [GitHub repository](https://github.com/yourusername/dummy-post-generator/issues)
